@@ -112,7 +112,7 @@ async function startNaze() {
        try {
        ppgc = await naze.profilePictureUrl(pea[0].id, 'image')
        } catch {
-       ppgc = 'https://shortlink.hisokaarridho.my.id/rg1oT'
+       ppgc = '-'
        }
        let wm_nazedev = { url : ppgc }
        if (pea[0].announce == true) {
