@@ -20,11 +20,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
+global.owner = ['087812365209']
+global.ownernomer = "087812365209"
+global.premium = ['087812365209']
 global.packname = 'Sticker By'
-global.author = 'GabutBot v3.1'
+global.author = 'GEmBalz v3.1'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -52,7 +52,7 @@ global.mess = {
 // Limit
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 10
 }
 
 // Fake
@@ -60,14 +60,14 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/yangjunming12'
-global.myyt = 'Yt kamu'
-global.myytv = 'Yt video kamu'
-global.mygc = "Grup wa kamu"
+global.mygit = '-'
+global.myyt = '-'
+global.myytv = '-'
+global.mygc = "-"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'GABUT-BOT'
-global.akulaku = 'Bot by YangJunMing'
+global.botname = 'GEmBalzBot'
+global.akulaku = 'Bot by GemBalz'
 global.ytname = 'Nama yt kamu' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
